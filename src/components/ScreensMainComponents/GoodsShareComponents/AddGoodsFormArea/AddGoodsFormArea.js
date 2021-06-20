@@ -15,7 +15,7 @@ import {GoodsList} from '../../../../res/constants/dummyData';
 import {useSelector} from 'react-redux';
 import {doPost} from '../../../../utils/AxiosMethods';
 
-// Text Fields Validations //
+// Text Fields Validations
 const validationSchema = Yup.object().shape({
   title: Yup.string().required().min(3).max(20).label('Title'),
   description: Yup.string().required().min(4).max(100).label('Description'),
