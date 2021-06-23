@@ -1,6 +1,6 @@
 ## About The Project
 
-Thi is uber passenger app clone. This repository contains the UI of the application that is built using React Native CLI.
+Let’s Share is a P2P and also a B2B sharing economy platform that serves a purpose which all of us in life need. It will allow its user to Share underutilized assets (Daily things that we use) with other users in the same or nearby area. A user can share his assets for free or by charging another user. It is a sharing economy platform that connects people who can share any extra Space, Ride, Food, or Goods with people in need of it.
 
 ## App UI ScreenShots
 
@@ -35,7 +35,7 @@ Thi is uber passenger app clone. This repository contains the UI of the applicat
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AsadBaig039/Uber_Clone.git
+   git clone https://github.com/AsadBaig039/Lets_Share.git
    ```
 2. Install NPM packages
 
@@ -58,7 +58,7 @@ Thi is uber passenger app clone. This repository contains the UI of the applicat
 
 ASAD BAIG - [asad.baig039@gmail.com](asad.baig039@gmail.com)
 
-Project Link: [https://github.com/AsadBaig039/Uber_Clone.git](https://github.com/AsadBaig039/Uber_Clone.git)
+Project Link: [https://github.com/AsadBaig039/Lets_Share.git](https://github.com/AsadBaig039/Lets_Share.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 
