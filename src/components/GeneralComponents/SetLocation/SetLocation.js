@@ -130,7 +130,7 @@ const Component = ({onSelectItem, title}) => {
             fetchDetails
             enablePoweredByContainer={true}
             query={{
-              key: 'AIzaSyAIzLQ2mPeFCSvf4qMTZwN5KyIUBpAexuc',
+              key: GOOGLE_API_KEY,
               language: 'en',
               // components: 'country:pakistan',
             }}
